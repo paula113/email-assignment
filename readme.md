@@ -4,7 +4,7 @@ This repository contains three tasks related to **email design and templating** 
 
 ## Tasks Overview 
 
-### First Task – email_design_A.html ([Read More](./task1-html-css/reame.md))  
+### First Task – email_design_A.html ([Read More](./task1-html-css/readme.md))  
 - The email design from **Design_A.png** using **HTML with inline CSS**.  
 - Ensure cross-platform email compatibility.  
 - Using [PutsMail](https://putsmail.com/tests/new) to test the email rendering.  
