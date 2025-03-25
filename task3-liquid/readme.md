@@ -4,7 +4,7 @@ This project uses **LiquidJS** to process a Liquid template and generate a stati
 
 ## Project Structure
 ```
-mi-proyecto-velocity/
+task3-liquid/
 ├── views/
 │   ├── email_design_B.liquid    # Liquid template with HTML/CSS
 ├── data/
@@ -20,6 +20,7 @@ mi-proyecto-velocity/
 ### Install Dependencies
 Make sure you have **Node.js** installed, then run:
 ```sh
+cd task3-liquid
 npm install
 ```
 
