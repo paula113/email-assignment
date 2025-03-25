@@ -95,6 +95,15 @@ mi-proyecto-velocity/
   mvn clean install -U
 ```
 
+## Screenhoots
+
+<img src="https://github.com/user-attachments/assets/b579f634-45c3-4091-bb7b-33724d70d8bd" width="300" alt="Rating Stars" style="display: inline-block"/>
+<img src="https://github.com/user-attachments/assets/84b204b9-2ad6-4cac-a77b-6b83a62357c5" width="300" alt="Rating Stars" style="display: inline-block"/>
+<img src="https://github.com/user-attachments/assets/d413996f-6923-4bb2-9a90-77535cf419d0" width="300" alt="Rating Stars" style="display: inline-block"/>
+
+<img src="https://github.com/user-attachments/assets/1514dc15-6f1a-4e2c-92ab-3f031a7edcce" width="500" alt="Rating Stars" style="display: inline-block"/>
+
+
 ## Resources:
 
 **Maven Docs:**
