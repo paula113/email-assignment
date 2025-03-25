@@ -30,10 +30,10 @@ public class GenerateHtml {
     velocityEngine.getTemplate("template.vm").merge(context, writer);
 
     // Guardar la salida en un archivo HTML
-    try (FileWriter fileWriter = new FileWriter("output.html")) {
+    try (FileWriter fileWriter = new FileWriter("email_template_velocity.html")) {
       fileWriter.write(writer.toString());
     }
 
-    System.out.println("HTML generado: output.html");
+    System.out.println("HTML generado: email_template_velocity.html");
   }
 }
