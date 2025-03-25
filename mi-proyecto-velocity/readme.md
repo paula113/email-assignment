@@ -23,10 +23,10 @@ Run the following commands to check your Java and Maven versions:
 ```
 Expected output:
 
-![](../assets/task-2-versions.png)
+![](assets/image.png)
 
 ### Generating the Project
-To create the project structure, use Maven’s quickstart archetype:
+How to create the project structure, use Maven’s quickstart archetype:
 
 ```sh
   mvn archetype:generate -DgroupId=com.ejemplo.velocity -DartifactId=mi-proyecto-velocity -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
