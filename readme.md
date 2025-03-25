@@ -20,6 +20,6 @@ This repository contains three tasks related to **email design and templating** 
 ## How to Use This Repository
 1. Start with the **task1-html-css** for the first Task.  
 2. Move to the **mi-proyecto-velocity** to introduce dynamic data with Velocity.  
-3. Finalize with the **task3-liquid**, implementing liquidjs.  
+3. Finalize with the **task3-liquid**, implemented with liquidjs.  
 
 For more details on each task, refer to the respective README files. 

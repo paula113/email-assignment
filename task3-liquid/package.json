@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "liquidjs": "^10.21.0"
+  }
+}
