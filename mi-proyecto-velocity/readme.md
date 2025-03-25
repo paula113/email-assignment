@@ -23,7 +23,8 @@ Run the following commands to check your Java and Maven versions:
 ```
 Expected output:
 
-![](assets/image.png)
+![image](https://github.com/user-attachments/assets/ab8166c7-0cfb-40fd-8cf0-bcb2e607c12c)
+
 
 ### Generating the Project
 How to create the project structure, use Maven’s quickstart archetype:
